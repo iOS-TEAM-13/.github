@@ -76,6 +76,22 @@
     </td>
       </tbody>
   </table>
-</div>
+
+<br>
+
+## Git 브랜치 전략 (Git flow)
+
+  | 브랜치명 | 설명 |
+| --- | --- |
+| main | 메인 브랜치 및 초기 프로젝트 생성 |
+| develop | 개발 브랜치 |
+| feat/ | 기능 개발 브랜치 |
+| design/ | 디자인 개발 브랜치 |
+| /mycarPage | 차량 정보 페이지 |
+| /historyPage | 내역 페이지 |
+| /mapPage | 지도 페이지 |
+| /communityPage | 커뮤니티 페이지 |
+| /myPage | 마이 페이지 |
+| /loginPage | 로그인 페이지 |
 
 </div>
